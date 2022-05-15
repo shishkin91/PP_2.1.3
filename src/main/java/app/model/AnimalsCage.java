@@ -21,7 +21,7 @@ public class AnimalsCage {
         System.out.println("Say:");
         System.out.println(animal.toString());
         System.out.println("At:");
-        System.out.println(timer.getTime()); // или как было через new, тест проходит в любом случае. не понятно условие про одинаковое время.
+        System.out.println(timer.getTime()); // или как было через new, тест проходит в любом случае. непонятно условие про одинаковое время.
         System.out.println("________________________");
     }
 }
